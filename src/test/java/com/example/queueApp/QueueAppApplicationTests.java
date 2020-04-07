@@ -1,4 +1,4 @@
-package com.example.queueApp;
+package com.example.queueapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
